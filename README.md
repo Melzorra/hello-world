@@ -1,2 +1,3 @@
 # hello-world
-The traditional programming introduction to anything... GitHub-flavored.
+Another iteration traditional programming introduction to anything... 
+This one is GitHub-flavored.
